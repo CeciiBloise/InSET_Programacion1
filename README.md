@@ -1,2 +1,2 @@
 # InSET - Programacion I
-Ejercicios del trabajo practicon compensatorio N° 03 
+Ejercicios de la materia.
